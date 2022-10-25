@@ -2,10 +2,10 @@
 A simple game in which snake will eat the food and as it is eating the food, snake's body length will increase and it will die if it collides with itself or with wall!
 
 # Tools
-Java
-Java Swing
-Java Awt
-IntelliJ Idea
+###### Java
+###### Java Swing
+###### Java Awt
+###### IntelliJ Idea
 
 # Screenshots
 ![Running](https://user-images.githubusercontent.com/116621224/197728418-573b1726-3ec5-4e7e-b80b-c3f8b7bce11e.png)
